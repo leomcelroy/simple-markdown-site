@@ -1,0 +1,9 @@
+
+h1 {
+  color: red;
+}
+
+/* so the pre-compiled markdown doesn't show up */
+markdown-component {
+  visibility: hidden;
+}
